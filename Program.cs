@@ -18,9 +18,11 @@ class Program
             Console.WriteLine("2. User Login");
             Console.WriteLine("3. Exit");
             Console.Write("Choose an option: ");
-            int choice = int.Parse(Console.ReadLine());
-
-            switch (choice)
+            
+            try
+            {
+                int choice = int.Parse(Console.ReadLine());
+                 switch (choice)
             {
                 case 1:
                     RegisterUser();
@@ -35,6 +37,14 @@ class Program
                     Console.WriteLine("Invalid option. Please try again.");
                     break;
             }
+            }
+            catch (System.Exception)
+            {
+                
+                System.Console.WriteLine("Invalid entry. Please try again and enter a number between 1 and 3.");
+            }
+
+           
         }
     }
 
