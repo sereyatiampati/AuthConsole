@@ -1,0 +1,45 @@
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/bin/Debug/net7.0/NumberGuesser
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/bin/Debug/net7.0/NumberGuesser.deps.json
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/bin/Debug/net7.0/NumberGuesser.runtimeconfig.json
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/bin/Debug/net7.0/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/bin/Debug/net7.0/NumberGuesser.pdb
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/refint/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.pdb
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/NumberGuesser.genruntimeconfig.cache
+/home/sereya/Desktop/JiTu/C#/NumberGuesser/obj/Debug/net7.0/ref/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/bin/Debug/net7.0/NumberGuesser
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/bin/Debug/net7.0/NumberGuesser.deps.json
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/bin/Debug/net7.0/NumberGuesser.runtimeconfig.json
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/bin/Debug/net7.0/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/bin/Debug/net7.0/NumberGuesser.pdb
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/refint/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.pdb
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/NumberGuesser.genruntimeconfig.cache
+/home/sereya/Desktop/JiTu/C#/Week 2 Assessment/obj/Debug/net7.0/ref/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/AuthConsole/bin/Debug/net7.0/NumberGuesser
+/home/sereya/Desktop/JiTu/C#/AuthConsole/bin/Debug/net7.0/NumberGuesser.deps.json
+/home/sereya/Desktop/JiTu/C#/AuthConsole/bin/Debug/net7.0/NumberGuesser.runtimeconfig.json
+/home/sereya/Desktop/JiTu/C#/AuthConsole/bin/Debug/net7.0/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/AuthConsole/bin/Debug/net7.0/NumberGuesser.pdb
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.csproj.AssemblyReference.cache
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.AssemblyInfoInputs.cache
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.AssemblyInfo.cs
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/refint/NumberGuesser.dll
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.pdb
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/NumberGuesser.genruntimeconfig.cache
+/home/sereya/Desktop/JiTu/C#/AuthConsole/obj/Debug/net7.0/ref/NumberGuesser.dll
